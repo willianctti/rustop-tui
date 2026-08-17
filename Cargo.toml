@@ -1,0 +1,17 @@
+[package]
+name = "rustop-tui"
+version = "0.1.0"
+edition = "2021"
+authors = ["you"]
+description = "Monitor de sistema moderno para Ubuntu/Linux, em Rust + ratatui"
+license = "MIT"
+
+[dependencies]
+anyhow = "1.0"
+crossterm = "0.27"
+ratatui = "0.26"
+
+[profile.release]
+opt-level = 3
+lto = true
+strip = true
