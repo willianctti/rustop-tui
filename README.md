@@ -8,13 +8,12 @@ com gráficos animados direto no terminal — sem depender de GUI.
 ![license](https://img.shields.io/badge/license-MIT-blue)
 
 ## Screenshots
+<img width="1357" height="688" alt="image" src="https://github.com/user-attachments/assets/010b00dd-82c7-4e6c-9ad6-1b3c2fb34a3b" />
 
-<!--
-  ![Aba CPU/RAM](docs/screenshots/cpu-ram.png)
-  ![Aba Rede](docs/screenshots/rede.png)
-  ![Aba Processos](docs/screenshots/processos.png)
-  ![Aba Docker](docs/screenshots/docker.png)
--->
+<img width="1357" height="665" alt="image" src="https://github.com/user-attachments/assets/271522a8-7799-4f3a-91a0-579ddbd0f82e" />
+
+<img width="1354" height="657" alt="image" src="https://github.com/user-attachments/assets/f71b60a2-7f96-448a-aa67-846c7c3ec2a1" />
+
 
 ## Funcionalidades
 
